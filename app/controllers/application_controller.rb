@@ -3,4 +3,6 @@ class ApplicationController < ActionController::Base
   # this is a new controller.
   
   # this is new controller ljjjkjk thus is gibrish
+  
+  # ver 1.1 
 end
